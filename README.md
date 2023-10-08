@@ -1,2 +1,3 @@
-# a
-map perigueux omsi 2
+Add-On Périgueux OMSI 2
+
+Interdiction de republier la map
